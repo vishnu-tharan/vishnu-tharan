@@ -1,113 +1,127 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,50:DC2626,100:EF4444&height=220&section=header&text=VISHNU%20THARAN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Information%20Technology%20Undergraduate%20%7C%20Problem%20Solver&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Vishnu Tharan — Information Technology Undergraduate and Problem Solver" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1200&color=EF4444&center=true&vCenter=true&width=650&lines=Turning+complex+problems+into+clear+solutions.;Building+with+logic.+Refining+for+performance.;Exploring+full-stack+and+parallel+computing." alt="Turning complex problems into clear solutions. Building with logic. Refining for performance. Exploring full-stack and parallel computing." />
-</p>
+![Vishnu Tharan — Information Technology undergraduate at the University of Vavuniya](assets/hero.gif)
 
-<p align="center">
-  <a href="https://github.com/vishnu-tharan?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Work-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/vishnu-tharan?tab=followers">
-    <img src="https://img.shields.io/github/followers/vishnu-tharan?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=18181B&labelColor=27272A" alt="GitHub followers" />
-  </a>
-</p>
+**Clean logic. Reliable data. Thoughtful performance.**
 
-<p align="center">
-  <sub>Curiosity drives the learning. Precision shapes the code.</sub>
-</p>
+[About](#about-me) · [Toolkit](#technical-toolkit) · [Interests](#where-my-interests-connect) · [My Work](https://github.com/vishnu-tharan?tab=repositories) · [Connect](#lets-connect)
 
----
+</div>
+
+![Animated crimson divider](assets/divider.gif)
 
 ## About Me
 
 I’m **Vishnu Tharan**, an **Information Technology undergraduate at the University of Vavuniya**, Faculty of Applied Science.
 
-I enjoy understanding how systems work—and finding ways to make them work better. My interests span **full-stack development**, **database integrity**, and **high-performance computing**, with problem solving at the center of everything I build.
+I enjoy the reasoning behind software: how an algorithm solves a problem, how a database keeps information consistent, and how multiple processes work together. My interests span **full-stack development**, **data-driven applications**, and **high-performance computing**.
 
-- **My approach:** Break down complexity, reason carefully, and write maintainable solutions.
-- **My focus:** Clean code, efficient algorithms, and reliable application behavior.
-- **Topics I enjoy:** JavaScript fundamentals, SQL triggers, and collective communication in MPI.
+**Problem solving is my primary focus.** I’m drawn to challenges that require breaking down complex logic, considering different approaches, and finding opportunities to improve efficiency. My guiding principle is to write **clean, scalable, and efficient code**.
 
-> Good software begins with clear thinking—and improves through careful iteration.
+> I want to understand both how a solution works and why it is a good fit for the problem.
+
+| Academic foundation | Engineering interests |
+| :--- | :--- |
+| **Information Technology** undergraduate | Algorithmic reasoning and problem solving |
+| **University of Vavuniya** | Full-stack application development |
+| **Faculty of Applied Science** | Database integrity and parallel computing |
+
+![Animated focus cards: problem solving, data integrity, and parallel computing](assets/focus.gif)
 
 ## Technical Toolkit
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Languages</h3>
-      <p>Building a foundation in application logic and computational problem solving.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>Databases</h3>
-      <p>Working with structured data, document databases, and integrity rules.</p>
-      <img src="https://img.shields.io/badge/SQL-DC2626?style=for-the-badge&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Parallel Computing</h3>
-      <p>Exploring process coordination, collective communication, and performance.</p>
-      <img src="https://img.shields.io/badge/MPI-Parallel_Computing-DC2626?style=for-the-badge&labelColor=27272A" alt="MPI parallel computing" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>Version Control</h3>
-      <p>Keeping changes organized and development history clear.</p>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    </td>
-  </tr>
-</table>
+| Domain | Technologies | What draws my attention |
+| :--- | :--- | :--- |
+| **Programming** | `JavaScript` `C` `C++` | Clear logic, efficient algorithms, and reusable solutions |
+| **Databases** | `SQL` `MongoDB` | Data modeling, consistency, and dependable application storage |
+| **Parallel computing** | `MPI` | Collective communication, coordination, and performance |
+| **Version control** | `Git` | Organized changes and a clear development history |
+| **Development interests** | `Full-stack development` | Connecting interfaces, backend logic, and data |
 
-## Areas of Interest
+<details>
+<summary><strong>Explore the technical topics I enjoy discussing</strong></summary>
 
-| Area | What interests me |
+### JavaScript Essentials
+
+I enjoy discussing the fundamentals that support application logic: control flow, functions, arrays, objects, and the organization of readable code.
+
+### SQL Triggers & Database Integrity
+
+I’m interested in how triggers respond to data changes, how validation supports consistency, and how database logic can contribute to auditing. I also enjoy thinking about where responsibilities belong between an application and its database.
+
+### Collective Communication in MPI
+
+I’m interested in how processes distribute work and combine results through collective operations. Broadcasts, scatter/gather patterns, reductions, and the cost of communication are topics I enjoy exploring.
+
+### Performance & Maintainability
+
+I care about understanding unnecessary work, choosing suitable algorithms, and improving efficiency while keeping a solution readable.
+
+</details>
+
+![Animated crimson divider](assets/divider.gif)
+
+## Where My Interests Connect
+
+### 01 · Problem Solving
+
+Understanding the constraints comes first. I enjoy breaking a challenge into smaller parts, examining edge cases, and reasoning about the tradeoffs between possible solutions.
+
+**Focus:** `Algorithms` · `Logical reasoning` · `Efficiency`
+
+### 02 · Full-Stack Development
+
+I’m interested in the complete path from a user’s interaction to backend processing and stored data. Building responsive frontends with robust backend services connects my interests in application logic and databases.
+
+**Focus:** `Interfaces` · `Backend logic` · `Data flow`
+
+### 03 · Data-Driven Applications
+
+Reliable applications depend on reliable data. I enjoy exploring how SQL logic, validation, and auditing help preserve integrity as information changes.
+
+**Focus:** `SQL triggers` · `Consistency` · `Auditing`
+
+### 04 · High-Performance Computing
+
+Parallel execution adds another dimension to problem solving. I’m interested in how algorithms divide work, how processes communicate, and when coordination costs affect performance.
+
+**Focus:** `MPI` · `Parallel algorithms` · `Communication`
+
+![Animated crimson divider](assets/divider.gif)
+
+## Principles That Guide My Work
+
+| Principle | What it means to me |
 | :--- | :--- |
-| **Problem Solving** | Turning complex requirements into clear algorithms and practical solutions. |
-| **Full-Stack Development** | Connecting responsive interfaces with reliable backend logic. |
-| **Database Integrity** | Using SQL triggers and validation rules to support consistent, auditable data. |
-| **High-Performance Computing** | Understanding parallel execution and the cost of communication between processes. |
-| **Code Quality** | Improving readability, maintainability, and efficiency through thoughtful refactoring. |
+| **Clarity** | Make the intent of the code easy to understand. |
+| **Correctness** | Think carefully about assumptions, inputs, and edge cases. |
+| **Efficiency** | Look for unnecessary computation and resource use. |
+| **Maintainability** | Keep solutions structured so they can evolve. |
+| **Curiosity** | Understand the ideas behind the tools and techniques. |
 
-## Contribution Journey
+## Explore My Work
 
-<p align="center">
-  <em>Learning, experimenting, and improving—one contribution at a time.</em>
-</p>
+Visit my repositories to explore the work I share on GitHub.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vishnu-tharan/vishnu-tharan/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake tracing my GitHub contribution grid" />
-</p>
+**[Browse repositories →](https://github.com/vishnu-tharan?tab=repositories)**
 
 ## Let’s Connect
 
-I welcome conversations about **algorithm optimization**, **database design**, **parallel computing**, and **full-stack development**.
+I welcome conversations about **algorithm optimization**, **SQL triggers**, **MPI collective communication**, and **full-stack application logic**.
 
-If you’re exploring a similar problem or have an idea to share, I’d be happy to exchange perspectives.
+If you’re exploring similar ideas, I’d be happy to exchange perspectives.
 
-<p align="center">
-  <a href="https://github.com/vishnu-tharan">
-    <img src="https://img.shields.io/badge/Find_Me_on_GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Visit Vishnu Tharan on GitHub" />
-  </a>
-</p>
+**[Visit my GitHub profile →](https://github.com/vishnu-tharan)**
 
----
+![Animated crimson divider](assets/divider.gif)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishnu-tharan&color=dc2626&style=flat-square&label=PROFILE+VIEWS" alt="Profile view counter" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Think clearly. Build carefully. Keep improving.</b>
-</p>
+**VISHNU THARAN**  
+Information Technology Undergraduate · University of Vavuniya
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,50:DC2626,100:EF4444&height=110&section=footer" width="100%" alt="" />
-</p>
+*Think clearly. Build carefully. Keep improving.*
+
+<sub>The animated visuals are stored in this repository. No external animation service is required.</sub>
+
+</div>
