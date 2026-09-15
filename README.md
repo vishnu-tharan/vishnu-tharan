@@ -1,93 +1,139 @@
 <div align="center">
 
-![Vishnu Tharan — Information Technology undergraduate at the University of Vavuniya](assets/hero.gif)
+![Vishnutharan Bavachelvan — Full-Stack Developer & IT Undergraduate at the University of Vavuniya](assets/hero.gif)
 
-**Clean logic. Reliable data. Thoughtful performance.**
+**I turn complex problems into thoughtful digital experiences.**
 
-[About](#about-me) · [Toolkit](#technical-toolkit) · [Interests](#where-my-interests-connect) · [My Work](https://github.com/vishnu-tharan?tab=repositories) · [Connect](#lets-connect)
+[About](#about-me) · [Tech Stack](#tech-stack) · [Projects](#selected-work) · [Journey](#journey) · [Beyond the Code](#beyond-the-code) · [Connect](#lets-connect)
 
 </div>
 
-![Animated crimson divider](assets/divider.gif)
+![Animated divider](assets/divider.gif)
 
 ## About Me
 
-I’m **Vishnu Tharan**, an **Information Technology undergraduate at the University of Vavuniya**, Faculty of Applied Science.
+I'm **Vishnutharan Bavachelvan** — a **Full-Stack Developer and IT undergraduate** at the **University of Vavuniya**, Faculty of Applied Science, pursuing a **B.Sc. (Hons) in Information Technology** (2023 – Present). Selected for the **IT Honours programme in 2026**.
 
-I enjoy the reasoning behind software: how an algorithm solves a problem, how a database keeps information consistent, and how multiple processes work together. My interests span **full-stack development**, **data-driven applications**, and **high-performance computing**.
+From responsive interfaces to autonomous agents, I like understanding how the pieces fit together. My work spans full-stack web and mobile applications, Java-based backend systems, and distributed/parallel computing — and I care deeply about building things that are **clean, reliable, and maintainable**.
 
-**Problem solving is my primary focus.** I’m drawn to challenges that require breaking down complex logic, considering different approaches, and finding opportunities to improve efficiency. My guiding principle is to write **clean, scalable, and efficient code**.
+> I turn complex problems into thoughtful digital experiences.
 
-> I want to understand both how a solution works and why it is a good fit for the problem.
-
-| Academic foundation | Engineering interests |
+| Academic foundation | Engineering focus |
 | :--- | :--- |
-| **Information Technology** undergraduate | Algorithmic reasoning and problem solving |
-| **University of Vavuniya** | Full-stack application development |
-| **Faculty of Applied Science** | Database integrity and parallel computing |
+| **B.Sc. (Hons) in Information Technology** | Full-stack application development |
+| **University of Vavuniya** — Faculty of Applied Science | Responsive interfaces & backend services |
+| **2023 – Present** · Honours programme, 2026 | Distributed systems & high-performance computing |
 
-![Animated focus cards: problem solving, data integrity, and parallel computing](assets/focus.gif)
+![Animated focus cards](assets/focus.gif)
 
-## Technical Toolkit
+---
 
-| Domain | Technologies | What draws my attention |
+## Tech Stack
+
+| Layer | Primary | Also working with |
 | :--- | :--- | :--- |
-| **Programming** | `JavaScript` `C` `C++` | Clear logic, efficient algorithms, and reusable solutions |
-| **Databases** | `SQL` `MongoDB` | Data modeling, consistency, and dependable application storage |
-| **Parallel computing** | `MPI` | Collective communication, coordination, and performance |
-| **Version control** | `Git` | Organized changes and a clear development history |
-| **Development interests** | `Full-stack development` | Connecting interfaces, backend logic, and data |
+| **Frontend** | `React` `React Native` `TypeScript` | `HTML` `CSS` `JavaScript` `Expo` |
+| **Backend** | `Spring Boot` `Node.js` `Express` | `Java` `Python` `REST APIs` |
+| **Databases** | `MongoDB` `MySQL` | `SQL` `SQLite` `Firebase` |
+| **Dev & Ops** | `Git` `Docker` `Vercel` | `MPI` `OpenMP` `CUDA` `JADE` `Apache GemFire` |
 
 <details>
-<summary><strong>Explore the technical topics I enjoy discussing</strong></summary>
+<summary><strong>Explore topics I enjoy discussing</strong></summary>
 
-### JavaScript Essentials
+### Full-Stack Architecture
 
-I enjoy discussing the fundamentals that support application logic: control flow, functions, arrays, objects, and the organization of readable code.
+I enjoy thinking about the complete path from a user's interaction to backend processing and stored data — designing APIs, structuring data models, and connecting frontend state to server logic cleanly.
 
-### SQL Triggers & Database Integrity
+### Spring Boot & Java Systems
 
-I’m interested in how triggers respond to data changes, how validation supports consistency, and how database logic can contribute to auditing. I also enjoy thinking about where responsibilities belong between an application and its database.
+Building structured, maintainable backend services with Spring Boot. I'm interested in layered architecture, RESTful design, and how Java-based systems scale.
 
-### Collective Communication in MPI
+### React & React Native
 
-I’m interested in how processes distribute work and combine results through collective operations. Broadcasts, scatter/gather patterns, reductions, and the cost of communication are topics I enjoy exploring.
+Building responsive, component-driven interfaces across web and mobile from a shared codebase. I care about clean component structure, state management, and cross-platform UX consistency.
 
-### Performance & Maintainability
+### Database Design & Integrity
 
-I care about understanding unnecessary work, choosing suitable algorithms, and improving efficiency while keeping a solution readable.
+Reliable applications depend on reliable data. I enjoy exploring how schemas, constraints, triggers, and validation rules preserve integrity as information changes — and where responsibility belongs between the application and its database.
+
+### Parallel & Distributed Computing
+
+Parallel execution adds another dimension to problem solving. I'm interested in MPI collective operations, OpenMP thread coordination, CUDA GPU parallelism, and the cost of communication in distributed systems.
 
 </details>
 
-![Animated crimson divider](assets/divider.gif)
+![Animated divider](assets/divider.gif)
 
-## Where My Interests Connect
+## Selected Work
 
-### 01 · Problem Solving
+A selection of platforms, services, and experiments. Built with curiosity. Refined through doing.
 
-Understanding the constraints comes first. I enjoy breaking a challenge into smaller parts, examining edge cases, and reasoning about the tradeoffs between possible solutions.
+| # | Project | Stack | Category |
+| :--- | :--- | :--- | :--- |
+| 01 | **[Lanka Agri-Direct](https://github.com/dragon-udfly/LankaAgriDirect)** | `Spring Boot` `React` `React Native` `MongoDB` `Docker` | Group project — direct-to-consumer agricultural marketplace for Sri Lanka |
+| 02 | **[University Gateway](https://github.com/vishnu-tharan/GATEWAY-UniversityOfVavuniya)** | `React Native` `Expo` `Express` `MongoDB` | Campus vehicle-access & gate-pass system for the University of Vavuniya |
+| 03 | **[cashManage](https://github.com/vishnu-tharan/cashManage)** | `React` `Express` `SQLite` `PWA` | Private cashbooks with offline storage, budgeting, CSV/PDF export, and shared access roles |
+| 04 | **[CEB Energy Saver](https://github.com/vishnu-tharan/CEB-Management)** | `JavaScript` `HTML` `CSS` `Express` `SQLite` | Household electricity planner — usage tracking, budgets, solar/EV scenarios, forecasts |
+| 05 | **[CinemaStream](https://github.com/vishnu-tharan/CinemaStream)** | `TypeScript` `React Native` `Expo` `Firebase` | Movie-browsing app with catalog, search, Expo Router, and Firebase auth |
 
-**Focus:** `Algorithms` · `Logical reasoning` · `Efficiency`
+**[Browse all repositories →](https://github.com/vishnu-tharan?tab=repositories)**
 
-### 02 · Full-Stack Development
+![Animated divider](assets/divider.gif)
 
-I’m interested in the complete path from a user’s interaction to backend processing and stored data. Building responsive frontends with robust backend services connects my interests in application logic and databases.
+## Journey
 
-**Focus:** `Interfaces` · `Backend logic` · `Data flow`
+<details>
+<summary><strong>Move through the years ↔</strong></summary>
 
-### 03 · Data-Driven Applications
+### 2021 — School & University Selection
+Studied for A/Ls at **J/Uduppiddy American Mission College** and served as **Head Prefect**. Selected for the B.Sc. in Information Technology at the University of Vavuniya.
+`A/L studies` · `Head Prefect` · `B.Sc. IT selection`
 
-Reliable applications depend on reliable data. I enjoy exploring how SQL logic, validation, and auditing help preserve integrity as information changes.
+### 2023 — Year 1 · IT Foundations
+University of Vavuniya — Programming fundamentals, computer architecture, mathematics for computing, and introduction to web technologies.
+`Programming with Java` · `Computer Systems` · `Web Development Basics`
 
-**Focus:** `SQL triggers` · `Consistency` · `Auditing`
+### 2024 — Year 2 · Software & Databases
+University of Vavuniya — Object-oriented programming, database management systems, data structures, and frontend development with modern tools.
+`MySQL database systems` · `Data Structures & Algorithms` · `React & JavaScript`
 
-### 04 · High-Performance Computing
+### 2025 — Applied Learning
+Applied Year 2 software and database studies through a **Mini LMS project**, alongside academic coursework and student activities at the University of Vavuniya.
+`Mini LMS Project` · `Object-oriented programming` · `Frontend development`
 
-Parallel execution adds another dimension to problem solving. I’m interested in how algorithms divide work, how processes communicate, and when coordination costs affect performance.
+### 2026 — Honours Programme Selection
+Selected for the **B.Sc. in Information Technology Honours degree programme** at the University of Vavuniya. Continuing to develop skills in software development and computing.
+`B.Sc. IT Honours` · `University of Vavuniya`
 
-**Focus:** `MPI` · `Parallel algorithms` · `Communication`
+</details>
 
-![Animated crimson divider](assets/divider.gif)
+![Animated divider](assets/divider.gif)
+
+## Beyond the Code
+
+**Code is only part of the story.**
+
+### 🎓 Education
+**B.Sc. (Hons) in Information Technology**  
+Faculty of Applied Science, University of Vavuniya · 2023 – Present  
+*Selected for the IT Honours programme in 2026.*
+
+### 📜 Certifications
+- **JavaScript Essentials 1 & 2** — Cisco Networking Academy
+- **Introduction to SQL** — Sololearn
+
+### 🤝 Community
+- **IEEE member** · **AIESEC member** (2023 – present)
+- **Vanni Vogue Camera Club** member
+- **JamporIEEE** organizing committee — Logistics team
+- Hackathon volunteer · AIESEC leadership programmes
+
+### 🏆 Competition
+- **IEEEXtreme 17.0** — Participant
+- **IEEEXtreme 18.0** — Participant & Organizing committee member
+- Competed in IEEEXtreme 18.0 with **TheChiefs**, representing the University of Vavuniya
+
+![Animated divider](assets/divider.gif)
 
 ## Principles That Guide My Work
 
@@ -99,26 +145,32 @@ Parallel execution adds another dimension to problem solving. I’m interested i
 | **Maintainability** | Keep solutions structured so they can evolve. |
 | **Curiosity** | Understand the ideas behind the tools and techniques. |
 
-## Explore My Work
+![Animated divider](assets/divider.gif)
 
-Visit my repositories to explore the work I share on GitHub.
+## Let's Connect
 
-**[Browse repositories →](https://github.com/vishnu-tharan?tab=repositories)**
+I'm **open to internships** in full-stack, frontend, and backend development — **remotely worldwide** or **on-site in Sri Lanka**.
 
-## Let’s Connect
+Looking for a curious developer to join your team? Get in touch about a role, a project, or a question about my work.
 
-I welcome conversations about **algorithm optimization**, **SQL triggers**, **MPI collective communication**, and **full-stack application logic**.
+| Channel | Link |
+| :--- | :--- |
+| 📧 **Email** | [bavachelvanvishnutharan@gmail.com](mailto:bavachelvanvishnutharan@gmail.com) |
+| 📞 **Phone / WhatsApp** | [+94 77 364 6391](https://wa.me/94773646391) |
+| 💼 **LinkedIn** | [vishnutharanbavachelvan](https://www.linkedin.com/in/vishnutharanbavachelvan-5419a02b3) |
+| 🐙 **GitHub** | [vishnu-tharan](https://github.com/vishnu-tharan) |
+| 📍 **Location** | Jaffna District, Northern Province, Sri Lanka |
 
-If you’re exploring similar ideas, I’d be happy to exchange perspectives.
+I welcome conversations about **full-stack development**, **Spring Boot & Java systems**, **React & React Native**, **database design**, and **parallel computing**.
 
 **[Visit my GitHub profile →](https://github.com/vishnu-tharan)**
 
-![Animated crimson divider](assets/divider.gif)
+![Animated divider](assets/divider.gif)
 
 <div align="center">
 
-**VISHNU THARAN**  
-Information Technology Undergraduate · University of Vavuniya
+**VISHNUTHARAN BAVACHELVAN**  
+Full-Stack Developer · IT Undergraduate · University of Vavuniya
 
 *Think clearly. Build carefully. Keep improving.*
 
