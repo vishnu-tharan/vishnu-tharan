@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">From interaction to information</title>
+  <desc id="desc">Web and mobile interfaces connect to backend services and reliable data. Animated pink signals travel between the three layers.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    .signal { animation: travel 4s linear infinite; }
+    .second { animation-delay: 2s; }
+    @keyframes travel { from { stroke-dashoffset: 260; } to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .signal { animation: none; } }
+  </style>
+  <rect width="1200" height="260" rx="22" fill="#090b12"/>
+  <text x="38" y="43" fill="#ff7895" font-size="14" font-weight="700" letter-spacing="3">HOW THE PIECES CONNECT</text>
+  <path d="M355 143H435M765 143H845" stroke="#303444" stroke-width="2"/>
+  <path class="signal" d="M355 143H435" stroke="#ff6788" stroke-width="4" stroke-dasharray="18 62"/>
+  <path class="signal second" d="M765 143H845" stroke="#ff6788" stroke-width="4" stroke-dasharray="18 62"/>
+  <g fill="#111521" stroke="#303444">
+    <rect x="35" y="77" width="320" height="134" rx="16"/>
+    <rect x="435" y="77" width="330" height="134" rx="16"/>
+    <rect x="845" y="77" width="320" height="134" rx="16"/>
+  </g>
+  <g fill="#ff7895" font-size="13" font-weight="700" letter-spacing="2">
+    <text x="57" y="106">01 / EXPERIENCE</text><text x="457" y="106">02 / LOGIC</text><text x="867" y="106">03 / DATA</text>
+  </g>
+  <g fill="#f4f5f9" font-size="25" font-weight="700">
+    <text x="57" y="146">Web + mobile</text><text x="457" y="146">Backend services</text><text x="867" y="146">Reliable storage</text>
+  </g>
+  <g fill="#aeb8cb" font-size="16">
+    <text x="57" y="180">React · React Native · Expo</text><text x="457" y="180">Spring Boot · Express · REST</text><text x="867" y="180">MongoDB · MySQL · SQLite</text>
+  </g>
+  <text x="38" y="239" fill="#aeb8cb" font-size="13">Thoughtful interfaces. Clear application logic. Data that stays consistent.</text>
+</svg>

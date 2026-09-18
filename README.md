@@ -4,6 +4,12 @@
 
 **I turn complex problems into thoughtful digital experiences.**
 
+Full-stack development · Web & mobile · Java systems · Sri Lanka
+
+**Open to development internships** — remote worldwide or on-site in Sri Lanka.
+
+[**Explore my portfolio ↗**](https://vishnu-portfolio-theta-three.vercel.app) · [**Let's talk ↗**](mailto:bavachelvanvishnutharan@gmail.com) · [**LinkedIn ↗**](https://www.linkedin.com/in/vishnutharanbavachelvan-5419a02b3)
+
 [About](#about-me) · [Tech Stack](#tech-stack) · [Projects](#selected-work) · [Journey](#journey) · [Beyond the Code](#beyond-the-code) · [Connect](#lets-connect)
 
 </div>
@@ -16,7 +22,13 @@ I'm **Vishnutharan Bavachelvan** — a **Full-Stack Developer and IT undergradua
 
 From responsive interfaces to autonomous agents, I like understanding how the pieces fit together. My work spans full-stack web and mobile applications, Java-based backend systems, and distributed/parallel computing — and I care deeply about building things that are **clean, reliable, and maintainable**.
 
-> I turn complex problems into thoughtful digital experiences.
+### A little more about me
+
+I'm based in **Jaffna District, Northern Province, Sri Lanka**. My projects explore practical needs close to everyday life: campus access, personal finances, household energy use, and connecting agricultural producers with consumers.
+
+I enjoy working across the whole application: the screen someone interacts with, the API behind it, and the data that keeps it useful. Alongside web and mobile development, I explore **parallel computing, distributed systems, and autonomous agents** through my computing studies.
+
+Outside development, I'm involved in **IEEE, AIESEC, and the Vanni Vogue Camera Club**. My journey has included being a school Head Prefect, volunteering at hackathons, supporting event logistics, and taking part in IEEEXtreme with fellow university students.
 
 | Academic foundation | Engineering focus |
 | :--- | :--- |
@@ -26,9 +38,13 @@ From responsive interfaces to autonomous agents, I like understanding how the pi
 
 ![Animated focus cards](assets/focus.gif)
 
+[View the still banner](assets/hero-static.png)
+
 ---
 
 ## Tech Stack
+
+![Animated diagram connecting React web and mobile interfaces to Spring Boot and Express services, then MongoDB, MySQL, and SQLite storage](assets/build-flow.svg)
 
 | Layer | Primary | Also working with |
 | :--- | :--- | :--- |
@@ -68,13 +84,59 @@ Parallel execution adds another dimension to problem solving. I'm interested in 
 
 A selection of platforms, services, and experiments. Built with curiosity. Refined through doing.
 
-| # | Project | Stack | Category |
-| :--- | :--- | :--- | :--- |
-| 01 | **[Lanka Agri-Direct](https://github.com/dragon-udfly/LankaAgriDirect)** | `Spring Boot` `React` `React Native` `MongoDB` `Docker` | Group project — direct-to-consumer agricultural marketplace for Sri Lanka |
-| 02 | **[University Gateway](https://github.com/vishnu-tharan/GATEWAY-UniversityOfVavuniya)** | `React Native` `Expo` `Express` `MongoDB` | Campus vehicle-access & gate-pass system for the University of Vavuniya |
-| 03 | **[cashManage](https://github.com/vishnu-tharan/cashManage)** | `React` `Express` `SQLite` `PWA` | Private cashbooks with offline storage, budgeting, CSV/PDF export, and shared access roles |
-| 04 | **[CEB Energy Saver](https://github.com/vishnu-tharan/CEB-Management)** | `JavaScript` `HTML` `CSS` `Express` `SQLite` | Household electricity planner — usage tracking, budgets, solar/EV scenarios, forecasts |
-| 05 | **[CinemaStream](https://github.com/vishnu-tharan/CinemaStream)** | `TypeScript` `React Native` `Expo` `Firebase` | Movie-browsing app with catalog, search, Expo Router, and Firebase auth |
+### 01 / University Gateway
+**Campus access, connected across web and mobile.**
+
+A vehicle-access and equipment gate-pass application for the **University of Vavuniya**. Gate officers record arrivals and departures, faculty administrators approve equipment requests, and campus administrators manage access.
+
+- **Inside the application:** QR staff passes, searchable vehicle history, equipment approvals, PDF reports, and audit history.
+- **Across platforms:** web, Android, and iOS interfaces backed by an Express and MongoDB API.
+
+`React Native` `Expo` `Express` `MongoDB`
+
+[Explore University Gateway →](https://github.com/vishnu-tharan/GATEWAY-UniversityOfVavuniya)
+
+### 02 / cashManage
+**A clearer picture of everyday money.**
+
+Private cashbooks for web and mobile, with encrypted offline storage and an Express/SQLite account server. The application brings income, expenses, budgets, savings, debts, and repayments into one place.
+
+- **Inside the application:** currency-specific cashbooks, bank-statement imports with CSV previews, and PDF/CSV reports.
+- **Shared access:** owner, editor, and viewer roles for collaborative cashbooks.
+
+`React` `JavaScript` `Express` `SQLite` `PWA`
+
+[Explore cashManage →](https://github.com/vishnu-tharan/cashManage)
+
+### 03 / Lanka Agri-Direct
+**Connecting Sri Lankan growers with consumers.**
+
+A direct-to-consumer agricultural marketplace supporting produce distribution and order management. **I contributed as a team member** to this group project, which brings together web, mobile, and backend technologies.
+
+`Spring Boot` `React` `React Native` `MongoDB` `Docker`
+
+[Explore Lanka Agri-Direct →](https://github.com/dragon-udfly/LankaAgriDirect)
+
+<details>
+<summary><strong>More projects — energy planning & movie discovery</strong></summary>
+
+### 04 / CEB Energy Saver
+
+An **independent household electricity planner for Sri Lanka**. Track appliances and meter readings, set budgets and energy targets, compare recorded bills with estimates, and explore solar, appliance, and EV charging scenarios. Includes weekly usage plans, forecasts, and CSV export.
+
+`JavaScript` `HTML` `CSS` `Express` `SQLite`
+
+[Explore CEB Energy Saver →](https://github.com/vishnu-tharan/CEB-Management)
+
+### 05 / CinemaStream
+
+A mobile movie-discovery application with a local catalog, title and genre search, and individual detail screens. Includes Firebase-integrated login, registration, and profile screens, animated movie cards, and a responsive two-column catalog.
+
+`TypeScript` `React Native` `Expo` `Firebase`
+
+[Explore CinemaStream →](https://github.com/vishnu-tharan/CinemaStream)
+
+</details>
 
 **[Browse all repositories →](https://github.com/vishnu-tharan?tab=repositories)**
 
@@ -83,7 +145,7 @@ A selection of platforms, services, and experiments. Built with curiosity. Refin
 ## Journey
 
 <details>
-<summary><strong>Move through the years ↔</strong></summary>
+<summary><strong>Explore my journey — school leadership to IT Honours</strong></summary>
 
 ### 2021 — School & University Selection
 Studied for A/Ls at **J/Uduppiddy American Mission College** and served as **Head Prefect**. Selected for the B.Sc. in Information Technology at the University of Vavuniya.
@@ -155,6 +217,7 @@ Looking for a curious developer to join your team? Get in touch about a role, a 
 
 | Channel | Link |
 | :--- | :--- |
+| 🌐 **Portfolio** | [Explore my work and story](https://vishnu-portfolio-theta-three.vercel.app) |
 | 📧 **Email** | [bavachelvanvishnutharan@gmail.com](mailto:bavachelvanvishnutharan@gmail.com) |
 | 📞 **Phone / WhatsApp** | [+94 77 364 6391](https://wa.me/94773646391) |
 | 💼 **LinkedIn** | [vishnutharanbavachelvan](https://www.linkedin.com/in/vishnutharanbavachelvan-5419a02b3) |
