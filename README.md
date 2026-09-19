@@ -14,7 +14,7 @@ Full-stack development · Web & mobile · Java systems · Sri Lanka
 
 </div>
 
-![Animated divider](assets/divider.gif)
+![](assets/divider.gif)
 
 ## About Me
 
@@ -45,6 +45,8 @@ Outside development, I'm involved in **IEEE, AIESEC, and the Vanni Vogue Camera 
 ## Tech Stack
 
 ![Animated diagram connecting React web and mobile interfaces to Spring Boot and Express services, then MongoDB, MySQL, and SQLite storage](assets/build-flow.svg)
+
+**How the layers connect:** React and React Native provide the web and mobile interfaces; Spring Boot and Express handle application logic and REST APIs; MongoDB, MySQL, and SQLite provide storage across my projects. These are toolkit options, rather than dependencies used together in every application.
 
 | Layer | Primary | Also working with |
 | :--- | :--- | :--- |
@@ -78,7 +80,7 @@ Parallel execution adds another dimension to problem solving. I'm interested in 
 
 </details>
 
-![Animated divider](assets/divider.gif)
+![](assets/divider.gif)
 
 ## Selected Work
 
@@ -140,7 +142,7 @@ A mobile movie-discovery application with a local catalog, title and genre searc
 
 **[Browse all repositories →](https://github.com/vishnu-tharan?tab=repositories)**
 
-![Animated divider](assets/divider.gif)
+![](assets/divider.gif)
 
 ## Journey
 
@@ -169,7 +171,7 @@ Selected for the **B.Sc. in Information Technology Honours degree programme** at
 
 </details>
 
-![Animated divider](assets/divider.gif)
+![](assets/divider.gif)
 
 ## Beyond the Code
 
@@ -195,7 +197,7 @@ Faculty of Applied Science, University of Vavuniya · 2023 – Present
 - **IEEEXtreme 18.0** — Participant & Organizing committee member
 - Competed in IEEEXtreme 18.0 with **TheChiefs**, representing the University of Vavuniya
 
-![Animated divider](assets/divider.gif)
+![](assets/divider.gif)
 
 ## Principles That Guide My Work
 
@@ -207,7 +209,7 @@ Faculty of Applied Science, University of Vavuniya · 2023 – Present
 | **Maintainability** | Keep solutions structured so they can evolve. |
 | **Curiosity** | Understand the ideas behind the tools and techniques. |
 
-![Animated divider](assets/divider.gif)
+![](assets/divider.gif)
 
 ## Let's Connect
 
@@ -228,7 +230,7 @@ I welcome conversations about **full-stack development**, **Spring Boot & Java s
 
 **[Visit my GitHub profile →](https://github.com/vishnu-tharan)**
 
-![Animated divider](assets/divider.gif)
+![](assets/divider.gif)
 
 <div align="center">
 
